@@ -11,6 +11,11 @@ Project using **MobileNetV2** model trained on the **CIFAR-10** dataset, and dep
 
 ---
 
+## 🌐 Preview
+![Screenshot](preview_image.png)
+
+---
+
 ## 🧠 About the Project
 
 | Feature                     | Description                                            |
@@ -43,3 +48,4 @@ The model is optimized for simple object recognition across these classes.
 - 🧼 Reset feature to try again
 
 ---
+
